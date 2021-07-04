@@ -1,9 +1,9 @@
-# Fast campus Online JavaScript Project
+# JavaScript Project
 
 
 
 ```
-패스트캠퍼스 수업을 통해서 Javascript를 사용해
+Javascript를 사용해
 
 도서관리 웹페이지를 구현한 코드이다.
 
